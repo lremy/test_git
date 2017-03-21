@@ -1,3 +1,3 @@
 # test_git
 
-test de GIT en ligne
+Test de GIT, repository factice de prise en main de GIT.
