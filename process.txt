@@ -1,0 +1,9 @@
+Pré-requis:
+- avoir cloné le repository sur son poste
+
+Processus d'update du contenu:
+1 - mise à jour du contenu
+2 - optionnel: git add <file>
+	ajoute le fichier aux fichiers à suivre
+3 - git commit -m "Message"
+4 - git push origin master
